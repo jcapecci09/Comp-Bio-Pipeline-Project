@@ -1,1 +1,1 @@
-# Comp-Bio-Pipeline-Project
+# Comp-Bio-Pipeline-ProjectFASTQ files were retrieve via prefetch and fasterq-dump. SRR's were retrieved using prefetch {insert SRR} -O . in order to download SRR's into the current folder. SRA files were converted to FASTQ files with the command fasterq-dump --split-3 {Insert SRR}/{Insert SRR.sra}
